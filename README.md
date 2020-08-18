@@ -5,11 +5,13 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... building the [Julia Community](https://julialang.org/community/), the [NASA VIPER Mission](https://www.nasa.gov/feature/new-viper-lunar-rover-to-map-water-ice-on-the-moon/), and [enriching lives](https://www.apple.com). 
+- 🔭 I’m currently working on ... building the [Julia Community](https://julialang.org/community/), the [NASA VIPER Mission](https://www.nasa.gov/feature/new-viper-lunar-rover-to-map-water-ice-on-the-moon/), etc. 
 - 🌱 I’m currently learning ... more stuff about AI. 
 - 👯 I’m looking to collaborate on ... community projects! 
 - 🤔 I’m looking for help with ... anything open source + community development. 
-- 💬 Ask me about ... Julia, Open source, Apple, or NASA. 
+- 💬 Ask me about ... Julia, Open source, or NASA. 
 - 📫 How to reach me: ... email, Twitter, or LinkedIn. 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I just drove all the way across the country in an electric car! 
+
+__Please note: I am making my contributions/submissions to these project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.__
