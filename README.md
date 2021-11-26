@@ -3,6 +3,9 @@
 <!--
 **logankilpatrick/logankilpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![GitHub Profile Header](https://user-images.githubusercontent.com/35577566/143617122-f7257d3b-430d-44ce-80dc-7d90fb736b2c.png)
+
 Here are some fun facts about me:
 
 - 🔭 I’m currently working on ... building the [Julia Community](https://julialang.org/community/) and once upon a time worked on the [NASA VIPER Mission](https://www.nasa.gov/feature/new-viper-lunar-rover-to-map-water-ice-on-the-moon/). 
