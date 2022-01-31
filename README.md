@@ -9,6 +9,7 @@
 Here are some fun facts about me:
 
 - 🔭 I’m currently working on ... building the [Julia Community](https://julialang.org/community/) and once upon a time worked on the [NASA VIPER Mission](https://www.nasa.gov/feature/new-viper-lunar-rover-to-map-water-ice-on-the-moon/). 
+- 📝 I'm writing about all things Julia: [http://bit.ly/loganjl](http://bit.ly/loganjl)
 - 🌱 I’m currently learning ... everything I can about Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on ... community projects! 
 - 💬 Ask me about ... Julia, Open source, or NASA. 
