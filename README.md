@@ -17,4 +17,6 @@ Here are some fun facts about me:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I just drove all the way across the country in an electric car.
 
+![](https://komarev.com/ghpvc/?username=logankilpatrick&color=blueviolet)
+
 __Please note: I am making my contributions/submissions to these project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.__
