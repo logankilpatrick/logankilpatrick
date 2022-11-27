@@ -6,7 +6,11 @@
 
 ![GitHub Profile Header](https://user-images.githubusercontent.com/35577566/143617122-f7257d3b-430d-44ce-80dc-7d90fb736b2c.png)
 
-Here are some fun facts about me:
+
+
+__I am thrilled to share my new book, Julia Crash Course 🚀, is [now available for digital pre-orders](https://logankilpatrick.gumroad.com/l/juliacrashcourse)!__
+
+<!-- Here are some fun facts about me:
 
 - 🔭 I’m currently working on ... building the [Julia Community](https://julialang.org/community/) and once upon a time worked on the [NASA VIPER Mission](https://www.nasa.gov/feature/new-viper-lunar-rover-to-map-water-ice-on-the-moon/). 
 - 📝 I'm writing about all things Julia: [http://bit.ly/loganjl](http://bit.ly/loganjl)
@@ -15,8 +19,8 @@ Here are some fun facts about me:
 - 💬 Ask me about ... Julia, Open source, or NASA. 
 - 📫 How to reach me: ... [Twitter](https://twitter.com/OfficialLoganK)! 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I just drove all the way across the country in an electric car.
+- ⚡ Fun fact: ... I just drove all the way across the country in an electric car. -->
+
+*Please note: I am making my contributions/submissions to these project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.*
 
 ![](https://komarev.com/ghpvc/?username=logankilpatrick&color=blueviolet)
-
-__Please note: I am making my contributions/submissions to these project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.__
