@@ -4,10 +4,6 @@
 **logankilpatrick/logankilpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![GitHub Profile Header](https://user-images.githubusercontent.com/35577566/143617122-f7257d3b-430d-44ce-80dc-7d90fb736b2c.png)
-
-
-
 __I am thrilled to share my new book, Julia Crash Course 🚀, is [now available for digital pre-orders](https://logankilpatrick.gumroad.com/l/juliacrashcourse)!__
 
 <!-- Here are some fun facts about me:
