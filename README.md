@@ -21,6 +21,6 @@ __I am thrilled to share my new book, Julia Crash Course 🚀, is [now available
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I just drove all the way across the country in an electric car. -->
 
-*Please note: I am making my contributions/submissions to these project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.*
+*Please note: I am making my contributions/submissions to non-OpenAI project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties nor conveying endorsements of any such projects.*
 
 ![](https://komarev.com/ghpvc/?username=logankilpatrick&color=blueviolet)
